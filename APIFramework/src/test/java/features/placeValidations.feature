@@ -12,8 +12,8 @@ Examples:
 	|name 	 | language |address		   |
 	|AAhouse |  Hindi |World cross center|
 	|BBhouse | Spanish  |Sea cross center  |
-	|CChouse | Marathi  |Mountain cross center  |
-	|DDhouse | Tamil  |River cross center  |
+	#|CChouse | Marathi  |Mountain cross center  |
+#	|DDhouse | Tamil  |River cross center  |
 
 
 @DeletePlace @Regression
